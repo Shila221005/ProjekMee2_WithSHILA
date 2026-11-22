@@ -1,0 +1,5 @@
+metric,int8_percent
+Accuracy,65.57868180384737
+Precision Macro,41.91663774973897
+Recall Macro,47.88297438563505
+F1-Score Macro,40.91838419660681
